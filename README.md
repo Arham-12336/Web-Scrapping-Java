@@ -21,7 +21,7 @@ jsoup is a Java library for working with real-world HTML. It provides a very con
 
 1. Clone the repository
 ```
-$ git clone https:https://github.com/Arham-12336/Web-Scrapping-Java-.git
+$ git clone https://github.com/Arham-12336/Web-Scrapping-Java-.git
 ```
 
 2. Check into the cloned repository
