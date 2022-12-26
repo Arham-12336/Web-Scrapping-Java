@@ -1,4 +1,4 @@
-# Web-Scrapping-Java-
+# Web-Scrapping-Java
 
 ## Problem
 You have a HTML document that you want to extract data from. You know generally the structure of the HTML document.
