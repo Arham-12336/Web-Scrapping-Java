@@ -3,7 +3,7 @@
 ## Problem
 You have a HTML document that you want to extract data from. You know generally the structure of the HTML document.
 
-### Java HTML Parser>
+### Java HTML Parser
 
 jsoup is a Java library for working with real-world HTML. It provides a very convenient API for fetching URLs and extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors.jsoup can parse HTML files, input streams, URLs, or even strings. It eases data extraction from HTML by offering Document Object Model (DOM) traversal methods and CSS and jQuery-like selectors. jsoup can manipulate the content: the HTML element itself, its attributes, or its text.
 <p>Visit https://jsoup.org/ for more details</p>
