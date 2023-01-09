@@ -1,23 +1,23 @@
 # Web-Scrapping-Java
 
-## Problem
+## ⚠️ Problem
 You have a HTML document that you want to extract data from. You know generally the structure of the HTML document.
 
-### Java HTML Parser
+### ♻️ Java HTML Parser
 
 jsoup is a Java library for working with real-world HTML. It provides a very convenient API for fetching URLs and extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors.jsoup can parse HTML files, input streams, URLs, or even strings. It eases data extraction from HTML by offering Document Object Model (DOM) traversal methods and CSS and jQuery-like selectors. jsoup can manipulate the content: the HTML element itself, its attributes, or its text.
 <p>Visit https://jsoup.org/ for more details</p>
 
 
-## Getting Started
+## 🔰 Getting Started
 
-### Prerequisites
+### ✅  Prerequisites
 - [ ] [Java 8](https://www.java.com/en/download/help/download_options.xml)
 - [ ] [Maven 3.5](https://maven.apache.org/install.html)
 - [ ] [Git]()
 - [ ] An IDE or Editor of your choice
 
-### Running the Application
+### 💻 Running the Application
 
 1. Clone the repository
 ```
@@ -39,7 +39,7 @@ $ mvn package
 Run the xml file on the IDE
 ```
 
-## Contribution
+## 🤝 Contribution
 
 Please feel free to raise issues using this and I'll get back to you.
 
